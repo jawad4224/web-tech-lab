@@ -1,0 +1,43 @@
+.Table1 {
+    width: 40%;
+    border-collapse:collapse;
+    margin-top: 20px;
+    border:black;
+}
+.Table1 th{
+    background-color:rgb(243, 7, 144);
+    color: white;
+}
+.Table1 td{
+    background-color: rgb(169, 250, 240);
+    black: black;
+}
+.form{
+    height:200px;
+    width:400px;
+    background-color: rgb(29, 232, 171);
+    border-radius: 20px;
+    margin-top:20px;
+    margin-left:60px;
+    padding: 20px 20px 15px 20px;
+    
+}
+.name{border:none;
+border-radius:20px }
+.email{border:none;
+border-radius:20px }
+.message{border:none;
+border-radius:20px }
+.Button {
+
+    background-color: white;
+    color:black;
+    padding:3px 6px;
+    border:none;
+    border-radius:20px;
+    margin-left: 62px;
+    margin-top:10px;
+    margin-bottom:5px;
+    cursor:pointer;
+
+}  lab2css
